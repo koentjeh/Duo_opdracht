@@ -54,7 +54,7 @@ body {
 
 .card {
 	position: relative;
-    margin: 20px 0 10px 0;
+    margin: 20px auto 10px auto;
     padding: 10px 20px;
     background-color: #fff;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
