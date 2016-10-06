@@ -23,7 +23,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
 			</button>
-          <a class="navbar-brand" href="">Studeren op het HBO <small>Webdesign</small></a>
+          <a class="navbar-brand" href="index.php">Studeren op het HBO <small>Webdesign</small></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
           <ul class="nav navbar-nav navbar-right">

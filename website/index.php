@@ -4,6 +4,7 @@
 	<div class="col-md-12 card">
 		<h1>De titel</h1>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt eius voluptates laborum commodi laboriosam earum atque nemo vel! Dolor natus animi quod commodi expedita voluptatibus veniam ad in cum aspernatur?</p>
+	
 	</div>
 </div>
 
