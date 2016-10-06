@@ -27,9 +27,9 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
           <ul class="nav navbar-nav navbar-right">
-            	<li><a href="#">Informatica</a></li>
-		        <li><a href="#">Ervaringen</a></li>
-		        <li><a href="#">Verwachtingen</a></li>
+            	<li><a href="informatica.php">Informatica</a></li>
+		        <li><a href="Ervaringen.php">Ervaringen</a></li>
+		        <li><a href="Verwachtingen.php">Verwachtingen</a></li>
           </ul>
         </div>
       </div>
