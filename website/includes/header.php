@@ -30,6 +30,7 @@
             	<li><a href="informatica.php">Informatica</a></li>
 		        <li><a href="Ervaringen.php">Ervaringen</a></li>
 		        <li><a href="Verwachtingen.php">Verwachtingen</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
       </div>
