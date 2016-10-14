@@ -32,6 +32,14 @@
 				Ieder jaar dat je studeert wordt er van je verwacht 60 studiepunten te halen. Een complete hbo opleiding is dus 4×60 punten = 240. Het verkorte traject duurt 3 jaar en is dus 3x60 punten. 60 studiepunten is het maximaal haalbare. Jaarlijks moeten er minimaal 52 studiepunten behaald worden.
 			</p>
 
+			<br>
+
+			<h4>Studiepunten berekenen</h4>
+			<div class="input-group">
+				<input type="number" min="0" max="1680" class="form-control" placeholder="Aantal uren besteed aan de studie" id="studiepunten-input">
+				<span class="input-group-addon" id="studiepunten-result">0 studiepunten (max. 60)</span>
+			</div>
+
 			<h2>Periodewijzer (verkorte studie)</h2>
 			<table class="table">
 				<thead>
