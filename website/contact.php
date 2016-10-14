@@ -24,9 +24,9 @@
 					<td>kajbont@avans.nl</td>
 				</tr>
 				<tr>
-					<td>???</td>
+					<td>2114221</td>
 					<td>Regilio Dielemans</td>
-					<td>???</td>
+					<td>rdielema@avans.nl</td>
 				</tr>
 			</tbody>
 		</table>
