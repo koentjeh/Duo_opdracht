@@ -51,6 +51,14 @@ body {
     margin: -1px -15px;
     background-color: rgb(66, 133, 244);
 }
+.navbar-toggle {
+    padding: 12px 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
 
 .card {
 	position: relative;
