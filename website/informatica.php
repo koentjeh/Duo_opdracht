@@ -5,7 +5,7 @@
 		<div class="card">
 			<h2>Wat leer je op de opleiding Informatica?</h2>
 			<p>
-				Op de opleiding Informatica leer je alles over de verschillende aspecten van softwarenontwikkeling en automatiseringsprojecten. Een onderdeel van het maken van software is dat er vooraf onderzoek gedaan moet worden over de eisen van de software.
+				Op de opleiding Informatica leer je alles over de verschillende aspecten van softwareontwikkeling en automatiseringsprojecten. Een onderdeel van het maken van software is dat er vooraf onderzoek gedaan moet worden over de eisen van de software.
 				Als Informatici moeten er ook allerlei oplossingen bedacht worden om slimme, veilige maar ook vooral gebruiksvriendelijke computerprogramma's te bouwen.
 				Met het verkrijgen van de eisen van de software krijg je ook een duidelijk beeld waarvoor de software bedoeld is en wat het moet kunnen. Zo kun je deze eisen vertalen in een ontwerp wat uiteindelijk vertaald kan worden in een werkend computerprogramma. Na het bouwen van het computerprogramma leer je dit programma ook te testen.
 			</p>
@@ -76,7 +76,7 @@
 
 			<h3>De verkorte studie</h3>
 			<p>
-				De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd trajact.
+				De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd traject.
 			</p>
 		</div>
 
