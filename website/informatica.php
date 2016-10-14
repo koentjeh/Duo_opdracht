@@ -37,7 +37,7 @@
 			<h4>Studiepunten berekenen</h4>
 			<div class="input-group">
 				<input type="number" min="0" max="1680" class="form-control" placeholder="Aantal uren besteed aan de studie" id="studiepunten-input">
-				<span class="input-group-addon" id="studiepunten-result">0 studiepunten (max. 60)</span>
+				<span class="input-group-addon studiepunten-addon"><span id="studiepunten-result">0</span> studiepunten (max. 60)</span>
 			</div>
 
 			<h2>Periodewijzer (verkorte studie)</h2>
