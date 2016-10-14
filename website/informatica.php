@@ -1,7 +1,6 @@
 <?php include 'includes/header.php'; ?>
 
 <div class="container">
-
 	<div class="col-md-12">
 		<div class="card">
 			<h2>Wat leer je op de opleiding Informatica?</h2>
@@ -9,13 +8,6 @@
 				Op de opleiding Informatica leer je alles over de verschillende aspecten van softwarenontwikkeling en automatiseringsprojecten. Een onderdeel van het maken van software is dat er vooraf onderzoek gedaan moet worden over de eisen van de software.
 				Als Informatici moeten er ook allerlei oplossingen bedacht worden om slimme, veilige maar ook vooral gebruiksvriendelijke computerprogramma's te bouwen.
 				Met het verkrijgen van de eisen van de software krijg je ook een duidelijk beeld waarvoor de software bedoeld is en wat het moet kunnen. Zo kun je deze eisen vertalen in een ontwerp wat uiteindelijk vertaald kan worden in een werkend computerprogramma. Na het bouwen van het computerprogramma leer je dit programma ook te testen.
-			</p>
-		</div>
-
-		<div class="card">
-			<h2>De studie</h2>
-			<p>
-				De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd trajact.
 			</p>
 		</div>
 
@@ -65,6 +57,40 @@
 					</tr>
 				</thead>
 			</table>
+
+			<h3>De verkorte studie</h3>
+			<p>
+				De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd trajact.
+			</p>
+		</div>
+
+		<div class="card">
+			<h2>Beroepsprofielen</h2>
+
+			<h3>Softwareontwikkelaar</h3>
+			<p>
+				De software-engineer houdt zich bezig met het ontwerpen en bouwen van applicaties, programmeren en het testen van programmatuur. Hierbij is het belangrijk om met de klant en collega's samen te werken, om zo een compleet programma te creëren dat voldoet aan de eisen van de opdrachtgever.
+			</p>
+
+			<h3>Business-analist </h3>
+			<p>
+				Je werkt als schakel tussen bedrijven en de IT. Je vertaalt de wensen van de klant naar technische oplossingen.
+			</p>
+
+			<h3>IT-architect</h3>
+			<p>
+				Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de cohesie van IT-systemen en ontwikkelingen en legt voortdurend de relatie tot de business- en organisatiedoelen. Je communiceert als IT-architect in feite op alle niveaus; een functie met veel verantwoordelijkheid.
+			</p>
+
+			<h3>Projectmanager IT </h3>
+			<p>
+				De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de IT-afdeling van een bedrijf.
+			</p>
+
+			<h3>IT-consultant </h3>
+			<p>
+				Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over IT of ICT.
+			</p>
 		</div>
 
 		<div class="card">
@@ -105,35 +131,7 @@
 				Met een mbo-opleiding in ICT kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject.
 			</p>
 		</div>
-
-		<div class="card">
-			<h2>Beroepsprofielen</h2>
-
-			<h3>Softwareontwikkelaar</h3>
-			<p>
-				De software-engineer houdt zich bezig met het ontwerpen en bouwen van applicaties, programmeren en het testen van programmatuur. Hierbij is het belangrijk om met de klant en collega's samen te werken, om zo een compleet programma te creëren dat voldoet aan de eisen van de opdrachtgever.
-			</p>
-
-			<h3>Business-analist </h3>
-			<p>
-				Je werkt als schakel tussen bedrijven en de IT. Je vertaalt de wensen van de klant naar technische oplossingen.
-			</p>
-
-			<h3>IT-architect</h3>
-			<p>
-				Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de cohesie van IT-systemen en ontwikkelingen en legt voortdurend de relatie tot de business- en organisatiedoelen. Je communiceert als IT-architect in feite op alle niveaus; een functie met veel verantwoordelijkheid.
-			</p>
-
-			<h3>Projectmanager IT </h3>
-			<p>
-				De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de IT-afdeling van een bedrijf.
-			</p>
-
-			<h3>IT-consultant </h3>
-			<p>
-				Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over IT of ICT.
-			</p>
-		</div>
+	</div>
 </div>
 
 <?php include 'includes/footer.php'; ?>

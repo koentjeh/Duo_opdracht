@@ -1,7 +1,9 @@
 	<div class="container">
-		<footer class="footer">
-        	<p>Koen de Bont & Regilio Dielemans</p>
-      	</footer>
+		<div class="col-md-12">
+			<footer class="footer">
+	        	<p>Koen de Bont & Regilio Dielemans</p>
+	      	</footer>
+		</div>
 	</div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
