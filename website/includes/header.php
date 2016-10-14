@@ -23,13 +23,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
 			</button>
-          <a class="navbar-brand" href="index.php">Studeren op het HBO <small>Webdesign</small></a>
+          <a class="navbar-brand" href="index.php">Duo opdracht <small>Webdesign</small></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse" aria-expanded="false">
           <ul class="nav navbar-nav navbar-right">
-            	<li><a href="informatica.php">Informatica</a></li>
-		        <li><a href="Ervaringen.php">Ervaringen</a></li>
-		        <li><a href="Verwachtingen.php">Verwachtingen</a></li>
+            <li><a href="index.php">Informatica</a></li>
+            <li><a href="informatica.php">De opleiding</a></li>
+		        <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
       </div>

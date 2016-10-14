@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="col-md-12">
 		<div class="card">
-			<h1>Verwactingen</h1>
+			<h1>Verwachtingen</h1>
 		</div>
 	</div>
 </div>
