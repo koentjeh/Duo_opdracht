@@ -10,7 +10,7 @@
 		</div>
 		<div class="card">
 			<h1>Informatica</h1>
-			<p>De laatste jaren word er steeds meer gebruik gemaakt van informatica. Bijna iedereen gebruikt dagelijks wel iets wat met informatica te maken heeft. Denk bijvoorbeeld aan WhatsApp, Facebook, Spotify of een nieuwswebsite waar je even snel het laatste nieuws bekijkt. Bij informatica leer je niet alleen het programmeren van een programma. Maar vooral hoe je de eisen van een opdracht gever kan vertalen naar een ontwerp, en die weer kan omzetten naar een werkend computerprogramma en leer je hoe je dit programma goed kan testen. Hiervoor leer je eerst hoe je de eisen van een opdrachtgever goed kan vaststellen. </p>
+			<p>De laatste jaren word er steeds meer gebruik gemaakt van informatica. Bijna iedereen gebruikt dagelijks wel iets wat met informatica te maken heeft. Denk bijvoorbeeld aan WhatsApp, Facebook, Spotify, YouTube of een nieuwswebsite waar je even snel het laatste nieuws bekijkt. Dit doe je allemaal even snel op je mobieltje, laptop, tablet of op je computer die ook allemaal weer werken door middel van informatica. Er zijn er bijna geen bedrijven meer die niks met informatica doen. Zelf kleine bedrijven als een bakker hebben tegenwoordig vaak een website. Grote bedrijven hebben vaak een eigen systeem waar ze alles in kunnen opslaan denk bijvoorbeeld aan een ziekenhuis die alle dossiers online hebben staan op hun eigen intranet. Kortom je kan niet om informatica heen.</p>
 		</div>
 	</div>
 </div>
