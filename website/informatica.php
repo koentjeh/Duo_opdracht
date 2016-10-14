@@ -1,62 +1,72 @@
 <?php include 'includes/header.php'; ?>
 
 <div class="container">
-	<div class="col-md-12">
-		<div class="card">
-			<h1>Informatica</h1>
-			<p>Met het vak Informatica ben je een groot gedeelte met technolog</p>
-
-			
-
-
-
-
-
-
-
-
-
-
-			<!-- <p>Jij gebruikt dagelijks multimedia. Je houdt van programmeren of gamen. De computer heeft voor jou weinig geheimen. Bij Informatica leer je de kneepjes van het vak. Zo maak je van je hobby je beroep.</p>
-			<p>Muziek luisteren via Spotify of delen via Facebook. Boodschappen doen via de website van Albert Heijn of een app voor de kortste route door de supermarkt. En daarna betalen met je smartphone. Software is overal, we gebruiken het dagelijks en kunnen niet meer zonder. Er zijn steeds nieuwe technologische mogelijkheden en toepassingen. Voor jou als individuele gebruiker en voor grote organisaties. Softwareontwikkeling is een onmisbaar vakgebied.</p>
-			<h2>Jij</h2>
-			<p>Je wilt graag leren hoe je software ontwikkelt. Een leergierige en onderzoekende houding is daarbij noodzakelijk. Je kunt goed logisch redeneren en wilt beter worden in abstract denken. Daarnaast werk je graag samen, want het ontwikkelen van software doe je nooit alleen.</p>
-
-			<h2>De opleiding Informatica</h2>
-			<p>Je leert alles over de verschillende aspecten van softwareontwikkeling en automatiseringsprojecten. Je leert onderzoeken aan welke eisen de software moet voldoen, hoe je die eisen vertaalt naar een ontwerp en dat omzet in een computerprogramma. Natuurlijk vergeet je niet te testen of de software ook werkt.</p>
-			<p>Na de opleiding Informatica ben je Bachelor of Science. Je vindt snel een baan, want de arbeidsmarkt zit te springen om goede softwareontwikkelaars.</p>
-
-
-
-			<h2>Kenmerkend voor deze opleiding</h2>
-			<p>De software die je ontwikkelt, staat nooit op zichzelf, maar is onderdeel van een totaaloplossing: ter ondersteuning van bedrijfsprocessen, gecombineerd met andere ICT-applicaties en duurzaamheid. Bij Informatica leer je hoe je jouw software in deze context ontwikkelt. We leiden je op tot een developer die snel met nieuwe technologieën kan werken. We leren je de technologie en belichten achterliggende concepten. Het motto van onze opleiding is creating consumer & enterprise software solutions.</p> -->
-		</div>
-	</div>
 
 	<div class="col-md-12">
 		<div class="card">
 			<h2>Wat leer je op de opleiding Informatica?</h2>
-			<p>Op de opleiding Informatica leer je alles over de verschillende aspecten van softwarenontwikkeling en automatiseringsprojecten. Een onderdeel van het maken van software is dat er vooraf onderzoek gedaan moet worden over de eisen van de software.
-			Als Informatici moeten er ook allerlei oplossingen bedacht worden om slimme, veilige maar ook vooral gebruiksvriendelijke computerprogramma's te bouwen.
-			Met het verkrijgen van de eisen van de software krijg je ook een duidelijk beeld waarvoor de software bedoeld is en wat het moet kunnen. Zo kun je deze eisen vertalen in een ontwerp wat uiteindelijk vertaald kan worden in een werkend computerprogramma. Na het bouwen van het computerprogramma leer je dit programma ook te testen.</p>
-
-			<p></p>
+			<p>
+				Op de opleiding Informatica leer je alles over de verschillende aspecten van softwarenontwikkeling en automatiseringsprojecten. Een onderdeel van het maken van software is dat er vooraf onderzoek gedaan moet worden over de eisen van de software.
+				Als Informatici moeten er ook allerlei oplossingen bedacht worden om slimme, veilige maar ook vooral gebruiksvriendelijke computerprogramma's te bouwen.
+				Met het verkrijgen van de eisen van de software krijg je ook een duidelijk beeld waarvoor de software bedoeld is en wat het moet kunnen. Zo kun je deze eisen vertalen in een ontwerp wat uiteindelijk vertaald kan worden in een werkend computerprogramma. Na het bouwen van het computerprogramma leer je dit programma ook te testen.
+			</p>
 		</div>
-	</div>
-	<div class="col-md-8">
+
 		<div class="card">
 			<h2>De studie</h2>
-			De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd trajact.
+			<p>
+				De voltijd studie van de opleiding Informatica op het HBO te Avans Hogeschool duurt in totaal 4 jaar. Echter wanneer de student van het MBO afkomt met de opleiding Media development of Applicatie ontwikkelaar en er dus voor heeft gekozen om verder te studeren op het HBO, dan kan de student er voor kiezen om een verkorte studie te volgen. Bij de verkorte studie volg je een 3 jarig voltijd trajact.
+			</p>
 		</div>
 
 		<div class="card">
-			<h2>Opbouw opleiding</h2>
-			<table>
-				
+			<h2>Indeling</h2>
+
+			<h3>Basis</h3>
+			<p>
+				Je begint de propedeuse met het aanleren van basisvaardigheden. Je maakt kennis met verschillende aspecten van softwareontwikkeling, zowel op het technische als op het persoonlijke vlak. Geleidelijk verschuift het accent naar het integreren van deze vaardigheden op groepsniveau. Daarbij beperken we het aantal onderwerpen waaraan je werkt. Je wisselt de theorie over diverse onderwerpen af met veel opdrachten en tussentijdse toetsen. Je oriënteert je ook op het beroepenveld.
+			</p>
+
+			<h3>Verdieping</h3>
+			<p>
+				In deze fase verbreed en verdiep je je kennis en vaardigheden. Je werkt aan je lerend vermogen door (deels zelfstandig) nieuwe programmeertalen en technologieën eigen te maken. De docent heeft een coachende rol. Je ontwikkelt je onderzoekende houding verder met het oog op de praktijkstage en afstudeerstage. De context wordt steeds realistischer en breder met aandacht voor multidisciplinair werken.
+			</p>
+
+			<h2>Periodewijzer (verkorte studie)</h2>
+			<table class="table">
+				<thead>
+					<tr>
+						<th></th>
+						<th>Periode 1</th>
+						<th>Periode 2</th>
+						<th>Periode 3</th>
+						<th>Periode 4</th>
+					</tr>
+					<tr>
+						<td>Leerjaar 1</td>
+						<td class="p-1">IVK1.1 Basisvaardigheden 1</td>
+						<td class="p-1">IVK1.2 Basisvaardigheden 2</td>
+						<td class="p-2">IVK2.3 Business Intelligence & Big Data 2</td>
+						<td class="p-2">IVK2.4 Infrastructuur</td>
+					</tr>
+					<tr>
+						<td>Leerjaar 2</td>
+						<td class="p-2">IVK2.1 WebDevelopment Server-Side</td>
+						<td class="p-2">IVK2.2 WebDevelopment Client-Side</td>
+						<td class="p-3">IVK3.3 Softwater Architecture</td>
+						<td class="p-3">IVK3.4 Solution Architecture</td>
+					</tr>
+					<tr>
+						<td>Leerjaar 3</td>
+						<td class="p-4">Minor</td>
+						<td class="p-4">Minor</td>
+						<td class="p-4">Afstuderen</td>
+						<td class="p-4">Afstuderen</td>
+					</tr>
+				</thead>
 			</table>
 		</div>
-	</div>
-	<div class="col-md-4">
+
 		<div class="card">
 			<h2>Toelatingseisen</h2>
 
@@ -88,15 +98,42 @@
 			</table>
 
 			<b>MBO</b>
-			<p>MBO niveau 4. (Alleen met een MBO-opleiding met voldoende aansluiting ben je automatisch toelaatbaar.)</p>
-
-			<p>Met een mbo-opleiding in ICT kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject. </p>
+			<p>
+				MBO niveau 4. (Alleen met een MBO-opleiding met voldoende aansluiting ben je automatisch toelaatbaar.)
+			</p>
+			<p>
+				Met een mbo-opleiding in ICT kom je in aanmerking voor het verkorte traject. De leerstof van jaar 1 doorloop je versneld. Mogelijk kom je in aanmerking voor vrijstelling van de praktijkstage. Je rondt je opleiding mogelijk in 3 jaar af. Het minimum aantal deelnemers voor dit traject is 12. Als er geen verkort traject start volg je in jaar 1 het reguliere traject.
+			</p>
 		</div>
-			
-	</div>
+
+		<div class="card">
+			<h2>Beroepsprofielen</h2>
+
+			<h3>Softwareontwikkelaar</h3>
+			<p>
+				De software-engineer houdt zich bezig met het ontwerpen en bouwen van applicaties, programmeren en het testen van programmatuur. Hierbij is het belangrijk om met de klant en collega's samen te werken, om zo een compleet programma te creëren dat voldoet aan de eisen van de opdrachtgever.
+			</p>
+
+			<h3>Business-analist </h3>
+			<p>
+				Je werkt als schakel tussen bedrijven en de IT. Je vertaalt de wensen van de klant naar technische oplossingen.
+			</p>
+
+			<h3>IT-architect</h3>
+			<p>
+				Dit is geen startersfunctie, maar een doorgroeifunctie. Je initieert en bewaakt de cohesie van IT-systemen en ontwikkelingen en legt voortdurend de relatie tot de business- en organisatiedoelen. Je communiceert als IT-architect in feite op alle niveaus; een functie met veel verantwoordelijkheid.
+			</p>
+
+			<h3>Projectmanager IT </h3>
+			<p>
+				De projectmanager IT geeft leiding aan een groep werknemers die werkzaam zijn in de IT-afdeling van een bedrijf.
+			</p>
+
+			<h3>IT-consultant </h3>
+			<p>
+				Een IT- of ICT-consultant adviseert, meestal in dienst van een IT-bedrijf, klanten over IT of ICT.
+			</p>
+		</div>
 </div>
-
-
-
 
 <?php include 'includes/footer.php'; ?>
