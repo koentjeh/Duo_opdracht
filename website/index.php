@@ -8,7 +8,7 @@
 		</div>
 
 		<div class="card">
-			<h1>De duo opdracht</h1>
+			<h2>De duo opdracht</h2>
 			<p>Deze website is gericht om een helder beeld te geven wat de opleiding Informatica inhoudt. Hierin wordt er uitleg gegeven over het studeren op het HBO te Avans Hogeschool. Op deze pagina staat o.a. informatie over wat je gaat leren tijdens de studie Informatica, wat studiepunten zijn en hoeveel er nodig zijn om jouw studie te behalen en wat je na de studie uiteindelijk kunt worden.</p>
 
 			<a href="informatica.php"><button class="btn btn-primary btn-sm">Lees meer</button></a>
