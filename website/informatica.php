@@ -24,6 +24,14 @@
 				In deze fase verbreed en verdiep je je kennis en vaardigheden. Je werkt aan je lerend vermogen door (deels zelfstandig) nieuwe programmeertalen en technologieën eigen te maken. De docent heeft een coachende rol. Je ontwikkelt je onderzoekende houding verder met het oog op de praktijkstage en afstudeerstage. De context wordt steeds realistischer en breder met aandacht voor multidisciplinair werken.
 			</p>
 
+			<h3>Studiepunten</h3>
+			<p>
+				Studiepunten verdien je voor elk stukje van je opleiding dat je afrondt. Je krijgt bijvoorbeeld punten voor een tentamen dat je haalt, een stage die je goed afrondt of een projectverslag. De opleiding rekent uit hoeveel tijd je gemiddeld kwijt bent om een bepaalde opdracht te doen of een bepaald boek te lezen. Voor elke 28 uur werk krijg je een studiepunt. Denkt de opleiding dat het je 28 uur kost om een opdracht goed te doen, dan krijg je dus 1 studiepunt. Kost het 56 uur zelfstudie om een tentamen te halen, dan krijg je 2 studiepunten.
+			</p>
+			<p>
+				Ieder jaar dat je studeert wordt er van je verwacht 60 studiepunten te halen. Een complete hbo opleiding is dus 4×60 punten = 240. Het verkorte traject duurt 3 jaar en is dus 3x60 punten. 60 studiepunten is het maximaal haalbare. Jaarlijks moeten er minimaal 52 studiepunten behaald worden.
+			</p>
+
 			<h2>Periodewijzer (verkorte studie)</h2>
 			<table class="table">
 				<thead>
